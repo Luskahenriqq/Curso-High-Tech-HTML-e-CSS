@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://w7.pngwing.com/pngs/129/100/png-transparent-violet-blue-sky-purple-blue-background-sky-skyline.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(2, 11, 66);
+    text-align: initial;
+    font-size: 30px;
+}
+
+img {
+    width: 800px;
+    border-radius: 10px;
+    height: 350px;
+    margin-bottom: 30px;
+    display: flex;
+}
+
+section {
+    width: 800px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+}
+
+span {
+    color: rgb(14, 0, 92);
+    width: 800px;
+    border: 1px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    border-radius: 5px;
+
+}

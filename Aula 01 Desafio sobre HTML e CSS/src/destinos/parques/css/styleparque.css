@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/6c/37/2a/6c372a00117f0f31e5647148af7dac40.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(45, 92, 2);
+    text-align: initial;
+    font-size: 30px;
+}
+
+img {
+    width: 800px;
+    border-radius: 10px;
+    height: 350px;
+    margin-bottom: 30px;
+    display: flex;
+}
+
+section {
+    width: 800px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+}
+
+span {
+    color: rgb(7, 56, 0);
+    width: 800px;
+    border: 1px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    border-radius: 5px;
+}

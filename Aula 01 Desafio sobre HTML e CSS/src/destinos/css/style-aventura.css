@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/12/azul-claro27.jpg?fit=612%2C408&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(8, 122, 107);
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+section {
+    width: 600px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+}
+
+span {
+    background-color: rgb(15, 199, 128);
+    color: white;
+    width: 600px;
+    border: 1px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    border-radius: 5px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-premium/fondo-cuadrado-hojas-verdes-naturales_232693-453.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(1, 163, 28);
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+section {
+    width: 600px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+}
+
+span {
+    background-color: rgb(59, 185, 0);
+    color: white;
+    width: 600px;
+    border: 1px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    border-radius: 5px;
+}

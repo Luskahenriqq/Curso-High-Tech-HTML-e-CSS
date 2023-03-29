@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://images7.alphacoders.com/320/320543.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1 { 
+    color: rgb(255, 188, 4);
+    text-align: center;
+    font-size: 60px;
+}
+img {
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    height: 250px;
+    margin-bottom: 30px;
+    }
+section {
+    width: 600px;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+}
+
